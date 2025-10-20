@@ -288,6 +288,7 @@ QualitySettings:
     Server: 4
     Stadia: 0
     Standalone: 3
+    VisionOS: 0
     WebGL: 0
     Windows Store Apps: 0
     XboxOne: 0
